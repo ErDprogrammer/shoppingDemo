@@ -1,0 +1,1 @@
+console.log('this is index and index is the beginning of the file');
